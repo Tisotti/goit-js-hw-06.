@@ -15,6 +15,7 @@
 
 
 
+
 const ul = document.querySelector('#categories').children.length;
 console.log('Number of categories:', ul); 
 
